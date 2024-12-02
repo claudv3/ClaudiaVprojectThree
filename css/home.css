@@ -5,7 +5,7 @@
 
 header {
     background-color: rgb(2, 159, 101);
-   padding: 30px;
+   padding: 5px;
    text-align: center;
    color: white;
    border-style: dashed;
@@ -14,6 +14,7 @@ header {
    flex-direction: row;
    flex-wrap: nowrap;
    justify-content: space-between;
+   align-items: center;
 
    font-family: DMsans;
 
@@ -24,6 +25,7 @@ a {
     padding: 30px;
     text-decoration: none; 
     font-size: 20px;
+    text-align: center;
 }
 
 h2 {
@@ -38,7 +40,7 @@ h3 {
 }
 
 h4 {
-    text-align: right;
+    text-align: center;
 }
 
 footer {
