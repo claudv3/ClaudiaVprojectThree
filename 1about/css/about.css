@@ -1,0 +1,73 @@
+* {
+    padding: 10px;
+}
+
+
+header {
+    background-color: rgb(2, 159, 101);
+   padding: 30px;
+   text-align: center;
+   color: white;
+   border-style: dashed;
+
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   justify-content: space-between;
+
+   font-family: DMsans;
+
+   margin-bottom: 10px;
+}
+
+a {
+    padding: 30px;
+    text-decoration: none; 
+    font-size: 20px;
+}
+
+h2 {
+    font-family: outfit;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-family: DMsans;
+    text-align: center;
+}
+
+h4 {
+    text-align: right;
+}
+
+footer {
+    background-color: white;
+    border: 2px solid black; 
+    padding: 10px;
+    font-family: redhat;
+    bottom: 0;
+ }
+
+#heading { 
+    background-color: tan;
+}
+
+.footer {
+    text-align: center;
+}
+
+ @font-face { 
+    font-family: DMsans;
+    src: url(../font/DMSans-VariableFont_opsz\,wght.ttf);
+ }
+
+ @font-face {
+    font-family: redhat;
+    src: url(../font/RedHatDisplay-VariableFont_wght.ttf);
+ }
+
+ @font-face {
+    font-family: outfit;
+    src: url(../font/Outfit-VariableFont_wght.ttf);
+ }
