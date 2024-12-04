@@ -63,6 +63,21 @@ footer {
     text-align: center;
 }
 
+.mainParent { 
+    display: flex;
+   flex-direction: row;
+   width: 100%;
+   justify-content: space-around;
+}
+
+.info {
+    background-color: rgba(2, 159, 101, 0.7);
+    border-radius: 15px;
+    width: 25%;
+    margin: 20px;
+
+}
+
  @font-face { 
     font-family: DMsans;
     src: url(../font/DMSans-VariableFont_opsz\,wght.ttf);
