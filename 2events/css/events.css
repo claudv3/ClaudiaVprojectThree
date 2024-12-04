@@ -32,6 +32,11 @@ a:hover {
     color: black;
 }
 
+h1 {
+    font-family: redhat;
+    text-align: center;
+}
+
 h2 {
     font-family: outfit;
     font-size: 50px;
