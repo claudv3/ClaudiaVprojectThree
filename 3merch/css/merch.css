@@ -4,29 +4,32 @@
 
 
 header {
-    background-color: rgb(2, 159, 101);
-    padding: 5px;
+    background-image: url(../img/bannerdesign.png);
+    width: 100%;
+    background-size: contain;
    text-align: center;
-   color: white;
-   border-style: dashed;
-
-   display: flex;
-   flex-direction: row;
-   flex-wrap: nowrap;
-   justify-content: space-between;
    align-items: center;
-
-   font-family: DMsans;
-
-   margin-bottom: 10px;
+   font-family: outfit;
 }
 
 a {
     padding: 30px;
     text-decoration: none; 
-    font-size: 20px;
-    color: rgb(127, 41, 137);
+    font-size: 40px;
+    text-align: center;
+    color: white;
     font-weight: 700;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img {
+    width: 134px;
+    
+}
+
+a:hover {
+    color: black;
 }
 
 h2 {
