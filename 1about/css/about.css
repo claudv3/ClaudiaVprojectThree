@@ -4,30 +4,37 @@
 
 
 header {
-    background-color: rgb(2, 159, 101);
+
+    background-image: url(/1about/img/bannerdesign.png);
+    background-size: contain;
     padding: 5px;
    text-align: center;
    color: white;
-   border-style: dashed;
-
-   display: flex;
-   flex-direction: row;
-   flex-wrap: nowrap;
-   justify-content: space-between;
    align-items: center;
-
-   font-family: DMsans;
-
+   font-family: outfit;
    margin-bottom: 10px;
 }
 
 a {
     padding: 30px;
     text-decoration: none; 
-    font-size: 20px;
-    color: rgb(127, 41, 137);
+    font-size: 40px;
+    text-align: center;
+    color: whitesmoke;
     font-weight: 700;
+    align-items: center;
+    justify-content: space-between;
 }
+
+a:hover {
+    color: black;
+}
+
+img {
+    width: 134px;
+    
+}
+
 
 h2 {
     font-family: outfit;
