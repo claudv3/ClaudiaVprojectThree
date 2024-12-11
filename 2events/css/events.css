@@ -10,6 +10,7 @@ header {
    text-align: center;
    align-items: center;
    font-family: outfit;
+   background-blend-mode: darken;
 }
 
 a {
@@ -21,6 +22,7 @@ a {
     font-weight: 700;
     align-items: center;
     justify-content: space-between;
+    text-shadow: 3px  3px 3px black;
 }
 
 img {
@@ -29,7 +31,7 @@ img {
 }
 
 a:hover {
-    color: black;
+    color: red;
 }
 
 h1 {
@@ -41,7 +43,7 @@ h2 {
     font-family: outfit;
     font-size: 50px;
     text-align: center;
-    color: ;
+    color: 
 }
 
 h3 {
@@ -50,6 +52,13 @@ h3 {
 }
 
 h4 {
+    text-align: center;
+}
+
+h5 { 
+    font-weight: 700;
+    font-family: DMsans;
+    font-size: 30px;
     text-align: center;
 }
 
