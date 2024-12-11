@@ -10,6 +10,7 @@ header {
    text-align: center;
    align-items: center;
    font-family: outfit;
+   background-blend-mode: darken;
 }
 
 
@@ -22,10 +23,11 @@ a {
     font-weight: 700;
     align-items: center;
     justify-content: space-between;
+    text-shadow: 3px  3px 3px black;
 }
 
 a:hover {
-    color: black;
+    color: rgba(192, 59, 57, 2);
 }
 
 h2 {
