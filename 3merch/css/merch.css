@@ -1,6 +1,4 @@
-* {
-    padding: 10px;
-}
+
 
 
 header {
@@ -77,8 +75,8 @@ h3 {
 
 h4 {
     text-align: center;
+    font-weight: 100;
 }
-
 
 
 footer {
@@ -86,7 +84,7 @@ footer {
     border: 1px solid ; 
     border-radius: 10px;
     font-family: redhat;
-    font-weight: 10;
+    font-weight: 5px;
  }
 
 
