@@ -11,15 +11,32 @@ This website is created for the 3-day Sonoma County Mexican Festival, a festival
 Coding software is Visual Studio Code, languages in CSS and HTML. Hosting platform is GitHub.
 
 
- ## Figma Wireframe Link
+## Design Assets 
 
-(link to be added) 
-
-## Branding Guideline
-
-(link to be added)
+(https://drive.google.com/drive/folders/1Cj1x_Zhl3UNb3oA48y9tBwlCjGIdDgOP?usp=sharing)
 
 ## acknowledgement
+
+Fonts:
+DM Sans (https://fonts.google.com/specimen/DM+Sans)
+
+Outfit (https://fonts.google.com/specimen/Outfit)
+
+Red Hat Display (https://fonts.google.com/specimen/Red+Hat+Display?query=red+hat)
+
+Mockup Credit:
+https://hydricdesign.gumroad.com/l/wqdjg 
+
+Hispanic Federation:
+https://www.hispanicfederation.org/ 
+
+The grape vector is edited on an Illustration document. Original Adobe Stock link: https://stock.adobe.com/contributor/211044652/24hours?load_type=author&prev_url=detail&asset_id=561891211 
+
+Picture from the Home page has been edited in Photoshop. Original Image: https://www.mlive.com/resizer/v2/MN3BB62QDNBK3MRNIEVIZHG7RI.JPG?auth=8bf19e7d8eaa1ccce61bba6973cc1b591215f6b7599245145cb300966bbb33b0&width=1280&quality=90 
+
+
+
+
 
 
 
