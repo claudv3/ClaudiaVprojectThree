@@ -34,6 +34,10 @@ img {
     
 }
 
+#logo {
+    width: 150px;
+    
+}
 
 h2 {
     font-family: outfit;
@@ -60,6 +64,20 @@ footer {
 
 #heading { 
     background-color: tan;
+}
+
+.mainParent {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-around;
+    background-color: rgba(2, 159, 101, 0.5);
+    width: 80%;
+    border-radius: 15px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
 }
 
 .footer {

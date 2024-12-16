@@ -73,6 +73,21 @@ footer {
     background-color: tan;
 }
 
+.eventtext1 {
+    color: rgba(238, 70, 153);
+    text-shadow: 2px 2px 2px gray;
+}
+
+.eventtext2 {
+    color: rgba(2, 159, 101);
+    text-shadow: 2px 2px 2px gray
+}
+
+.eventtext3 {
+    color: rgb(127, 41, 137);
+    text-shadow: 2px 2px 2px gray
+}
+
 .footer {
     text-align: center;
 }
@@ -85,7 +100,7 @@ footer {
 }
 
 .info {
-    background-color: rgba(2, 159, 101, 0.7);
+    background-color: rgba(2, 159, 101, 0.5);
     border-radius: 15px;
     width: 25%;
     margin: 20px;
