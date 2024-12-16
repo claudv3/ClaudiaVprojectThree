@@ -3,7 +3,7 @@
 by Claudia Vela
  
  ## project overview
-This website is created for the 3-day Sonoma County Mexican Festival, a festival that benefits the Latino community in Sonoma County. All of the proceeds going in this festival all goes into Sonoma County Latinos in monetary need for immigration fees, welfare, education, housing, and more. This festival is supported by the Hispanic Federation, a nonprofit membership organization that supports Latinos. This festival takes place at the Sonoma County Fairgrounds during the weekend of January 3-5, 2025.
+This website is created for the 3-day Sonoma County Mexican Festival, a festival that benefits the Latino community in Sonoma County. All ticket sales from this festival are partially donated Sonoma County Latinos in monetary need for immigration fees, welfare, education, housing, and more. This festival is sponsored by the Hispanic Federation, a nonprofit membership organization that supports Latinos. Latinos are the highest minority group in Sonoma County according to the offical US Census chart (https://www.census.gov/quickfacts/fact/table/sonomacountycalifornia/INC110222). It is imperative that Sonoma County Latinos have their own spotlight in Sonoma County. This festival takes place at the Sonoma County Fairgrounds in Santa Rosa during the weekend of December 8-10, 2025. 
 
  ## technical overview
 
